@@ -1,4 +1,4 @@
-import image from './assets/images/sample-png.png';
+import image from './assets/images/350x150.png';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
